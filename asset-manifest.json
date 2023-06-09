@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.78fba835.css",
-    "main.js": "/static/js/main.e33c6af4.js",
-    "index.html": "/index.html",
-    "main.78fba835.css.map": "/static/css/main.78fba835.css.map",
-    "main.e33c6af4.js.map": "/static/js/main.e33c6af4.js.map"
+    "main.css": "/react-chenag-color/static/css/main.78fba835.css",
+    "main.js": "/react-chenag-color/static/js/main.e33c6af4.js",
+    "index.html": "/react-chenag-color/index.html",
+    "main.78fba835.css.map": "/react-chenag-color/static/css/main.78fba835.css.map",
+    "main.e33c6af4.js.map": "/react-chenag-color/static/js/main.e33c6af4.js.map"
   },
   "entrypoints": [
     "static/css/main.78fba835.css",
